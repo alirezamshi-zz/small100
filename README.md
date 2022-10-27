@@ -1,6 +1,10 @@
 SMaLL-100: Introducing Shallow Multilingual Machine Translation Model for Low-Resource Languages
 =================
 
+<p align="center">
+  <img src="logo.png" width="700"/>
+</p>
+
 SMaLL-100 is a compact and fast massively multilingual MT model covering more than 10K language pairs, 
 that achieves competitive results with M2M-100 while being much smaller and faster.
 
