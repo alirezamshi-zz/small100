@@ -29,7 +29,7 @@ Please follow [fairseq repo](https://github.com/facebookresearch/fairseq) for fu
 
 ## Generation with SMaLL-100
 
-1. Download pre-trained model from [here]() and put it in ```/model``` directory.
+1. Download pre-trained model from [here](https://drive.google.com/file/d/1d6Nl3Pbx7hPUbNkIq-c7KBuC3Vi5rR8D/view?usp=sharing) and put it in ```/model``` directory.
 2. Pre-process the evaluation set (sample data is provided in ```/data```).
 ```
 fairseq=/path/to/fairseq
@@ -54,7 +54,7 @@ fairseq-preprocess \
 fairseq-generate \
    data_bin \
    --batch-size 1 \
-   --path model/model.pt \
+   --path model/model_small100_fairseq.pt \
    --fixed-dictionary model/model_dict.128k.txt \
    -s af -t en \
    --remove-bpe 'sentencepiece' \
