@@ -109,5 +109,5 @@ If you use this code for your research, please cite the following work:
   year={2022}
 }
 ```
-Have a question not listed here? Open [a GitHub Issue](https://github.com/idiap/g2g-transformer/issues) or 
+Have a question not listed here? Open [a GitHub Issue](https://github.com/alirezamshi/small100/issues) or 
 send us an [email](alireza.mohammadshahi@idiap.ch).
