@@ -77,7 +77,7 @@ fairseq-generate \
 
 HuggingFace🤗
 -----------------  
-First you shooud install ```transformers``` and ```sentencepiece``` packages:
+First you should install ```transformers``` and ```sentencepiece``` packages:
 ```
 pip install transformers sentencepiece
 ```
