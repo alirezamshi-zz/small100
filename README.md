@@ -107,7 +107,7 @@ generated_tokens = model.generate(**encoded_zh)
 tokenizer.batch_decode(generated_tokens, skip_special_tokens=True)
 # => "Life is like a box of chocolate."
 ```
-
+Check the [model hub](https://huggingface.co/alirezamsh/small100) for further details.
 
 <a name="tokenize"/>  
 
